@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"Developments in music history that are evidenced by musical works","id":"77580b75b05d0cfa","x":-180,"y":-80,"width":250,"height":100},
+		{"id":"fff1db0351a08e49","x":-740,"y":-320,"width":460,"height":180,"type":"text","text":"The influence of folk music and nationalism in the Romantic period: Works such as Smetana's \"The Moldau\" showcase the incorporation of folk melodies and nationalistic themes into classical music, for example there are links to particular places, such as a polka which could be reference to Czech."},
+		{"id":"29c34b8aeb10c90c","x":200,"y":-180,"width":440,"height":150,"type":"text","text":"The emergence of program music in the Romantic period: Compositions such as Berlioz's \"Symphonie fantastique\" and Liszt's \"Les Preludes\" demonstrate the rise of program music, which aimed to evoke specific moods or tell a story through music."},
+		{"id":"a3c4638aaed5252d","x":70,"y":100,"width":440,"height":120,"type":"text","text":"The development of atonality and serialism in the 20th century, the emergence of atonality and serialism, which sought to break free from traditional tonal structures and create new harmonic systems."}
+	],
+	"edges":[
+		{"id":"1906c12e9f4fcd1f","fromNode":"77580b75b05d0cfa","fromSide":"right","toNode":"29c34b8aeb10c90c","toSide":"left"},
+		{"id":"a52509d3161bde3c","fromNode":"77580b75b05d0cfa","fromSide":"left","toNode":"fff1db0351a08e49","toSide":"right"},
+		{"id":"bb413ae1bccde104","fromNode":"77580b75b05d0cfa","fromSide":"bottom","toNode":"a3c4638aaed5252d","toSide":"left"}
+	]
+}
