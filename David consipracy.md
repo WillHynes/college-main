@@ -40,4 +40,9 @@ still upholds teacher standards
 "sixth form is a time when you're riadically finding yourselves"
 stuck from the 1920s/1820s
 prefers david over dave
-doesn't like boringly repetetive music, especially longer pieces
+doesn't like boringly repetetive music, especially longer pieces#
+turned into tim and is now torturing us with chords, what the fuck is an 8 note chord
+also, what the yellow painted jesus on a cross is a major *and* a minor chord
+Who is frank bridge D':
+has dramatic purpose, with atmospheric effect
+is the emodyment of colouristic harmony
