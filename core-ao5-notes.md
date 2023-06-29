@@ -27,3 +27,7 @@ score dtatatutuetuerearaeura used in Dans macabre.
 - well known for cyclic forms and thematic transformation
 Thematic transformation is where a particular theme or motif is changed throughout the course of the piece, which could be used to represent any transistion that the programme might undergo. It also helps links themes together, to help give the piece
 a sense of continuity, and familiarity. 
+
+Intro - theme 1 - transition - theme 2 - codetta 
+Development
+Recapitulation
