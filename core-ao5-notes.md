@@ -31,3 +31,7 @@ a sense of continuity, and familiarity.
 Intro - theme 1 - transition - theme 2 - codetta 
 Development
 Recapitulation
+
+Theme 1
+Phrase 1, phrase 2 (c c c), phrase 3 (contrasting), later - phrase 1
+
