@@ -50,3 +50,4 @@
 - uneasy
 - unreliable
 - uses fractional numbers: satanic???
+- "Musicians should be generous, kind and Christian" - Dr. D Weber, 9:35, 15/12/2023
