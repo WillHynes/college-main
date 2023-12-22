@@ -56,4 +56,4 @@
 - Tries to get us to write esays at 9 in the morning - definitely evil
 - Puts toxins into peoples blood
 - Does maths work instead of *buying his wife a christmas present*
-- Honestly, he seems to do more maths work than music work - *and the maths is for the bloody first years*
+- Honestly, he seems to do more "sums" work than music work - *and the maths is for the bloody first years*
