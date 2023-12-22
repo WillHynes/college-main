@@ -51,3 +51,9 @@
 - unreliable
 - uses fractional numbers: satanic???
 - "Musicians should be generous, kind and Christian" - Dr. D Weber, 9:35, 15/12/2023
+- Taking over Tim's part of the music course
+- Wants to rule the world?
+- Tries to get us to write esays at 9 in the morning - definitely evil
+- Puts toxins into peoples blood
+- Does maths work instead of *buying his wife a christmas present*
+- Honestly, he seems to do more maths work than music work - *and the maths is for the bloody first years*
